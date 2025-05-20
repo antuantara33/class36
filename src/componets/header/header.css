@@ -1,0 +1,27 @@
+.menu_main{
+    background-color: pink;
+}
+.menu_main .navbar-nav a{
+    
+    padding: 10px 20px !important;
+   
+    
+}
+.menu_main .navbar-nav a:last-child{
+    padding:12px 40px !important ;
+    background-color:rgb(255, 105, 150);
+    color: pink;
+    border-radius: 12px;
+    margin-left: 50px;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    -ms-border-radius: 12px;
+    -o-border-radius: 12px;
+}
+
+
+.img1{
+    height: 60px;
+    width: 80px;
+
+}
